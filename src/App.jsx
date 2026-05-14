@@ -1,11 +1,11 @@
-import NavBar from "./components/NavBar";
-import Home from "./components/Home";
-import Offers from "./components/Offers";
-import Sec3 from "./components/Sec3";
-import SecCards from "./components/SecCards";
-import Comments from "./components/Comments";
-import Discounts from "./components/Discount";
-import Footer from "./components/Footer";
+import NavBar from "./components/NavBar.jsx";
+import Home from "./components/Home.jsx";
+import Offers from "./components/Offers.jsx";
+import Sec3 from "./components/Sec3.jsx";
+import SecCards from "./components/SecCards.jsx";
+import Comments from "./components/Comments.jsx";
+import Discounts from "./components/Discount.jsx";
+import Footer from "./components/Footer.jsx";
 import "./App.css";
 
 function App() {
