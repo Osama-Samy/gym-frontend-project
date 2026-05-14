@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: './gym-frontend-project/',
+  base: '/gym-frontend-project/',
 })
