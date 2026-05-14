@@ -425,21 +425,6 @@ copies of the Software...
 
 **Osama Samy**
 
-- 🌐 GitHub: [Osama-Samy](https://github.com/Osama-Samy)
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/osama-samy)
-- 📧 Email: contact@osamagyм.com
-
----
-
-## 📞 Support & Contact
-
-- **Email:** support@osamagyм.com
-- **GitHub Issues:** [Report Issues](https://github.com/Osama-Samy/gym-frontend-project/issues)
-- **GitHub Discussions:** [Join Discussions](https://github.com/Osama-Samy/gym-frontend-project/discussions)
-- **Social Media:** [@OsamaGYM](https://twitter.com)
-
----
-
 ## 🙏 Acknowledgments
 
 Special thanks to:
